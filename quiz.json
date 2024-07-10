@@ -1,19 +1,79 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of car brands and manufacturers.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which brand has a bull logo?",
+      "answers": ["Lambo", "Audi", "BMW"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which brand makes the Civic?",
+      "answers": ["Honda", "Ford", "Toyota"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which brand makes the Model S?",
+      "answers": ["Tesla", "BMW", "Audi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has a prancing horse?",
+      "answers": ["Ferrari", "Ford", "Fiat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand makes the Mustang?",
+      "answers": ["Ford", "Dodge", "Chevy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has a three-pointed star?",
+      "answers": ["Merc", "BMW", "Audi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand makes the Camry?",
+      "answers": ["Toyota", "Nissan", "Mazda"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has four rings?",
+      "answers": ["Audi", "BMW", "Tesla"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand makes the F-150?",
+      "answers": ["Ford", "RAM", "Chevy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has a lion logo?",
+      "answers": ["Peugeot", "Opel", "Renault"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand makes the Wrangler?",
+      "answers": ["Jeep", "Ford", "GMC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand makes the 911?",
+      "answers": ["Porsche", "BMW", "Audi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has a blue oval?",
+      "answers": ["Ford", "Fiat", "GMC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand makes the Altima?",
+      "answers": ["Nissan", "Toyota", "Honda"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has a bowtie logo?",
+      "answers": ["Chevy", "Ford", "Dodge"],
       "correctAnswerIndex": 0
     }
   ]
